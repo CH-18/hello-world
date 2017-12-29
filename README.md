@@ -1,2 +1,7 @@
 # hello-world
-first repository 
+  Ahmed here ,
+  
+  Coding is life
+  Football is love
+  Music is soul 
+  
